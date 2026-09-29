@@ -1,0 +1,11 @@
+# more info
+docs/
+mock/
+.workbuddy/
+# Rust
+target/
+**/*.rs.bk
+
+# Tauri
+/desktop/src-tauri/gen/
+/desktop/src-tauri/target/
